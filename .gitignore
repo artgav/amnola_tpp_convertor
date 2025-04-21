@@ -1,0 +1,8 @@
+token.json
+credentials.json
+*.docx
+*.pdf
+/converted_docs/
+/processed_files/
+/input_files/
+/archive/
